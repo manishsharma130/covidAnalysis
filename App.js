@@ -1,11 +1,8 @@
 import React from "react";
 import AppContainer from "./src/containers/AppContainer";
 
-
 const App = () => {
-  return (<>
-    <AppContainer />
-  </>);
+  return (<AppContainer />);
 }
 
 
